@@ -23801,6 +23801,7 @@ system Sol
 	asteroids "large rock" 50 5.0508
 	asteroids "medium metal" 4 2.8566
 	asteroids "large metal" 1 2.2356
+	asteroids "huge rock" 10 2
 	minables iron 8 4.64499
 	trade Clothing 282
 	trade Electronics 745
@@ -28107,7 +28108,7 @@ planet Covert
 	tribute 1300
 		threshold 3000
 		fleet "Large Core Pirates" 16
-		
+
 planet Crataegusa
 	attributes "gas giant" "requires: gaslining" uninhabited
 	landscape land/nasa30
@@ -31555,4 +31556,3 @@ planet Zug
 	tribute 1200
 		threshold 3000
 		fleet "Large Militia" 18
-
